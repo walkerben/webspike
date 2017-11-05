@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "GGMC2N2QG3.com.hilton.hhonors.assoc",
+        "paths": ["/app", "/app/account", "/app/search/findhotel", "/app/stays/upcoming"]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "GGMC2N2QG3.com.hilton.hhonors.assoc"
+     ]
+  }
+}
