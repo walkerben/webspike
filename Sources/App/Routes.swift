@@ -20,6 +20,10 @@ final class Routes: RouteCollection {
         builder.get("info") { req in
             return req.description
         }
+        
+        builder.get("app", "search", "findhotel") { req in
+            return "BLAH!!!"
+        }
 
     }
 }
