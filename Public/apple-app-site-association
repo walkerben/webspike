@@ -7,10 +7,5 @@
         "paths": ["*"]
       }
     ]
-  },
-  "webcredentials": {
-    "apps": [
-      "GGMC2N2QG3.com.hilton.hhonors.assoc"
-     ]
   }
 }
