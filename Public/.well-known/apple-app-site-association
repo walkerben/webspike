@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "GGMC2N2QG3.com.hilton.hhonors.assoc",
-        "paths": ["*"]
+        "paths": ["/hello/ben", "/hello/greg"]
       }
     ]
   }
