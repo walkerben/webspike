@@ -5,6 +5,7 @@
 #export("content") {
 	<div class="welcome">
 		<img src="/images/it-works.png">
+		<a href="https://webspike.vapor.cloud/hello/ben">Test Link</a>
 	</div>
 }
 
