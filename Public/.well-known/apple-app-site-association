@@ -5,7 +5,17 @@
       {
         "appID": "GGMC2N2QG3.com.hilton.hhonors.assoc",
         "paths": ["/hello/ben", "/hello/greg", "/blah"]
+      },
+      {
+        "appID": "GGMC2N2QG3.com.hilton.hhonors.assocdev",
+        "paths": ["/hello/ben", "/hello/greg", "/blah"]
       }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "GGMC2N2QG3.com.hilton.hhonors.assoc",
+      "GGMC2N2QG3.com.hilton.hhonors.assocdev"
     ]
   }
 }
