@@ -12,7 +12,20 @@
       },
       {
         "appID": "5FHUGGG2XP.com.hilton.mobile.HHonorsTestApp.InHouse",
-"paths": ["*", "/blah"]
+"paths": ["*"]
+      },
+      {
+        "appID": "2E687BMX97.com.mobileforming.hilton.hhonors",
+        "paths": ["*"]
+      },
+
+      {
+        "appID": "2E687BMX97.com.mobileforming.hilton.hhonors",
+        "paths": ["*"]
+      },
+      {
+        "appID": "BBRV58C63H.com.mobileforming.hilton.hhonors",
+        "paths": ["*"]
       }
     ]
   }
