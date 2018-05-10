@@ -9,6 +9,10 @@
       {
         "appID": "GGMC2N2QG3.com.hilton.hhonors.assocdev",
         "paths": ["/hello/ben", "/hello/greg", "/blah"]
+      },
+      {
+        "appID": "5FHUGGG2XP.com.hilton.mobile.HHonorsTestApp.InHouse",
+"paths": ["*", "/blah"]
       }
     ]
   }
