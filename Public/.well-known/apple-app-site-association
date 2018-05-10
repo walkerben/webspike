@@ -31,7 +31,7 @@
       },
       {
         "appID": "BBRV58C63H.com.mobileforming.hilton.hhonors",
-        "paths": ["*"]
+        "paths": ["/hello/ryan"]
       }
     ]
   }
