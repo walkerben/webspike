@@ -22,7 +22,7 @@
       },
       {
         "appID": "45BQ97BH8P.com.mobileforming.hilton.hhonors",
-        "paths": ["/hello/ryan"]
+        "paths": ["/hello/ryan", "/*/index.html", "/*/hh/customer/account/index.htm", "/*/hh/customer/account/reservations.htm"]
       },
 
       {
