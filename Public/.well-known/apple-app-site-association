@@ -1,4 +1,10 @@
 {
+webcredentials: {
+    apps: [
+      "GGMC2N2QG3.com.hilton.hhonors",
+      "5FHUGGG2XP.com.hilton.mobile.HHonorsTestApp.InHouse.Prod"
+    ]
+  },
   "applinks": {
     "apps": [],
     "details": [
